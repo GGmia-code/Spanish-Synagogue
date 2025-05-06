@@ -1,0 +1,54 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.5 x64 6.5.0.9182
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Fescue_Chain_links_Chain_edge
+Ka 0.0392157 0.0392157 0.0392157
+Kd 0.0392157 0.0392157 0.0392157
+Ks 0.9 0.9 0.9
+illum 2
+Ns 16
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Manuscript_Adhesive_tape
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd Torah_diffuse_map_2Side.jpg
+map_bump Torah_bump_map.jpg
+bump Torah_bump_map.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Rollers_Handles
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 137.187
+map_Kd Torah_diffuse_map_2Side.jpg
+map_bump Torah_bump_map.jpg
+bump Torah_bump_map.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
